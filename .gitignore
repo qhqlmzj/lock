@@ -21,3 +21,26 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+.gradle
+gradle
+.idea
+*.iml
+build
+*/*.iml
+*/out
+*/build
+*/out/*
+moquette_store.mapdb
+moquette_store.mapdb.t
+moquette_store.mapdb.p
+.DS_Store
+._DS_Store
+deploy/*
+.classpath
+.project
+.settings
+*/.classpath
+*/.project
+*/.settings/
+*/bin/

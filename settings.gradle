@@ -1,0 +1,3 @@
+rootProject.name = 'lock'
+include 'mascode.lock'
+
