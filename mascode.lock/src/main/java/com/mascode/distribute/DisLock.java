@@ -9,7 +9,7 @@ public interface DisLock {
 
     boolean tryLock();
 
-    boolean tryLock(int waitTime);
+    boolean tryLock(long waitTime);
 
     boolean unLock();
 }
